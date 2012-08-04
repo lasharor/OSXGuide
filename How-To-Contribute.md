@@ -26,7 +26,9 @@
 
 7) commit your changes! Be sure to note SPECIFICALLY what you change, it will help us later I promise
 
-8) submit a pull request to have your changes merged up with the original repo!
+8) Make sure you sync your copy fairly often, changes will be made regularly and you want to be up to date.
+
+9) submit a pull request to have your changes merged up with the original repo!
 
 
 ####CONGRATULATIONS, YOU JUST HELPED!
