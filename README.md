@@ -8,6 +8,7 @@ Links
 
 * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/osxguide) For updates
 * [official subreddit](http://www.reddit.com/r/RedditOSXGuide) Reddit presence
+* [Google Docs](https://docs.google.com/folder/d/0Bx2_tTCIU6QGRDE2ZC1PbTViSXM/edit)
 * [Markdown Guide](http://daringfireball.net/projects/markdown/syntax/)
 * [Multimarkdown Guide](http://fletcher.github.com/peg-multimarkdown/mmd-manual.pdf) (advanced markdown features)
 
