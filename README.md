@@ -4,6 +4,7 @@ OSXGuide
 A guide to OS X written by Reddit
 
 Links
+-----
 
 * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/osxguide) For updates
 * [official subreddit](http://www.reddit.com/r/RedditOSXGuide) Reddit presence
